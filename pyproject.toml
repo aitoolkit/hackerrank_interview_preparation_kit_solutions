@@ -5,12 +5,13 @@ description = ""
 authors = ["aitoolkit"]
 readme = "README.md"
 packages = [
-    { include = "topics.*" }
+    { include = "topics" }
 ]
 
 [tool.poetry.dependencies]
 python = "^3.9"
-topics = { path = "./topics", develop = true }
+pytest = "^8.2.2"
+pre-commit = "^3.7.1"
 
 
 [build-system]

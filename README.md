@@ -5,5 +5,5 @@
 
 
 ## Contributions
-- Install Pre-commit
-- Poetry configuration
+- Install pre-commit
+- Run "pre-commit install"
