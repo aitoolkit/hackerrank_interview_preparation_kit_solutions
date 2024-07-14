@@ -2,7 +2,7 @@ def countSwaps(a):
     n = len(a)
     num_swaps = 0
     
-    for i in range(n):
+    for _ in range(n):
         for j in range(n-1):
             if a[j] > a[j+1]:
                 # swap elements
