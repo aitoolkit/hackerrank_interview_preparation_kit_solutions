@@ -21,6 +21,8 @@
 
 10- [Find the minimum number of swaps required to sort an array in ascending order](topics/arrays/minimum_swaps_2.py) : [Problem description](https://www.hackerrank.com/challenges/minimum-swaps-2/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)
 
+11- [Find the height of a binary tree](topics/trees/height_binary_tree.py) : [Problem description](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=trees)
+
 ## Contributions
 
 ### - Install pre-commit
