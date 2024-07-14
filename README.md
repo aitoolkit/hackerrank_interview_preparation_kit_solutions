@@ -15,6 +15,8 @@
 
 7- [Find the minimum absolute difference between any two elements in the array](topics/greedy_algorithms/min_abs_diff_in_array.py) : [Problem description](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms)
 
+8- [Given strings of brackets, determine whether each sequence of brackets is balanced](topics/staks_and_queues/balanced_brackets.py) : [Problem description](https://www.hackerrank.com/challenges/balanced-brackets/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues)
+
 
 ## Contributions
 
@@ -22,7 +24,12 @@
 
 ### - Run "pre-commit install"
 
-### - To add a new challenge solution :
+### - Generate coverage file : 
+```
+poetry run pytest --cov=topics  --cov-report=xml tests
+```
+
+### - Add a new challenge solution :
 
 1- Create the python script in one of the topics subfolders
 
