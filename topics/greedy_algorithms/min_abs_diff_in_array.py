@@ -20,7 +20,6 @@ def minimumAbsoluteDifference(arr):
     print(min_abs)
     return min_abs
 
-
 # Sol 3
 # def minimumAbsoluteDifference(arr):
 #     # Sort the array
