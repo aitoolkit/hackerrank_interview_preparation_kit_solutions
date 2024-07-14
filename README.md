@@ -23,6 +23,8 @@
 
 11- [Find the height of a binary tree](topics/trees/height_binary_tree.py) : [Problem description](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=trees)
 
+12- [Fibonacci sequence](topics/recursion_and_backtracking/fibonacci_numbers.py) : [Problem description](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=recursion-backtracking)
+
 ## Contributions
 
 ### - Install pre-commit
