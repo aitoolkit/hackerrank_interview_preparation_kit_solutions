@@ -1,17 +1,4 @@
-#!/bin/python3
-
-import math
-import os
-import random
-import re
-import sys
-
-#
-# Complete the 'minimumAbsoluteDifference' function below.
-#
-# The function is expected to return an INTEGER.
-# The function accepts INTEGER_ARRAY arr as parameter.
-#
+# import os
 
 # Sol 1
 # def minimumAbsoluteDifference(arr):
