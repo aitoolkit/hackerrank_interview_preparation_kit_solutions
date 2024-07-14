@@ -3,7 +3,7 @@ repos:
     hooks:
       - id: pytest-check
         name: pytest-check
-        entry: poetry run pytest --cov=topics tests
+        entry: poetry run pytest --cov=topics tests # poetry run pytest --cov=topics  --cov-report=xml tests
         language: system
         pass_filenames: false
         always_run: true
