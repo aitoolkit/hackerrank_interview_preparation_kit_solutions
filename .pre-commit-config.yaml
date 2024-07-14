@@ -14,8 +14,3 @@ repos:
         name: linter
         types: [python]
         args: [--strict, --ignore-missing-imports, --allow-untyped-defs]
-      # - id: mypy
-      #   name: linter
-      #   entry: poetry run mypy
-      #   language: system
-      #   args: [--strict, --ignore-missing-imports]

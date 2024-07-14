@@ -17,6 +17,7 @@
 
 8- [Given strings of brackets, determine whether each sequence of brackets is balanced](topics/staks_and_queues/balanced_brackets.py) : [Problem description](https://www.hackerrank.com/challenges/balanced-brackets/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues)
 
+9- [Help the ruler of HackerLand determine the cheapest way to give his citizens access to libraries](topics/graphs/roads_and_libraries.py) : [Problem description](https://www.hackerrank.com/challenges/torque-and-development/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=graphs)
 
 ## Contributions
 
