@@ -33,6 +33,8 @@
 
 16- [Two strings](topics/dictionaries_and_hashmaps/two_strings.py) : [Problem description](https://www.hackerrank.com/challenges/two-strings/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)
 
+17- [Sherlock and anagrams](topics/dictionaries_and_hashmaps/sherlock_and_angrams.py) : [Problem description](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)
+
 ## Contributions
 
 ### - Install pre-commit
