@@ -35,6 +35,11 @@
 
 17- [Sherlock and anagrams](topics/dictionaries_and_hashmaps/sherlock_and_angrams.py) : [Problem description](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)
 
+18- [2D arrays](topics/arrays/twoD_arrays.py) : [Problem description](https://www.hackerrank.com/challenges/2d-array/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)
+
+19- [Mark and Toys](topics/arrays/twoD_arrays.py) : [Problem description](https://www.hackerrank.com/challenges/2d-array/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)
+
+
 ## Contributions
 
 ### - Install pre-commit
