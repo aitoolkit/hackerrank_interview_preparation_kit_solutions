@@ -31,6 +31,8 @@
 
 15- [Left rotation](topics/arrays/left_rotation.py) : [Problem description](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)
 
+16- [Two strings](topics/dictionaries_and_hashmaps/two_strings.py) : [Problem description](https://www.hackerrank.com/challenges/two-strings/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)
+
 ## Contributions
 
 ### - Install pre-commit
