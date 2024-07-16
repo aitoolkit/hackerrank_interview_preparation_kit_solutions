@@ -39,7 +39,10 @@
 
 19- [Mark and Toys](topics/arrays/twoD_arrays.py) : [Problem description](https://www.hackerrank.com/challenges/2d-array/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)
 
-19- [Binary Search Tree : Lowest Common Ancestor](topics/trees/bst_lowest_common_ancestor.py) : [Problem description](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=trees)
+20- [Binary Search Tree : Lowest Common Ancestor](topics/trees/bst_lowest_common_ancestor.py) : [Problem description](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=trees)
+
+21- [New Year chaos](topics/arrays/new_year_chaos.py) : [Problem description](https://www.hackerrank.com/challenges/new-year-chaos/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)
+
 
 ## Contributions
 
