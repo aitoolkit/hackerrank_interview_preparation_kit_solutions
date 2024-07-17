@@ -47,6 +47,8 @@
 
 23- [Sherlock and the Valid String](topics/string_manipulation/sherlock_valid_string.py) : [Problem description](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings)
 
+24- [Merge Sort: Counting Inversions](topics/sorting/merge_sort_counting_inversions.py) : [Problem description](https://www.hackerrank.com/challenges/ctci-merge-sort/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting)
+
 
 ## Contributions
 
