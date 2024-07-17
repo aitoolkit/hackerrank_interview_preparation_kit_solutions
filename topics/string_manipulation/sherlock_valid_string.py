@@ -1,21 +1,6 @@
 
 # Sol 1
 def isValid(s):
-    # freq = {}
-    # for c in s:
-    #     freq[c] = freq.get(c, 0) + 1
-    # diff = list(freq.values())[0]
-    # num_diff = 0
-    # print(freq)
-    # freq1 = 0
-    # freq2 = 0
-    # for c in freq:
-    #     if (abs(freq[c] - diff) == 1):
-    #         num_diff += 1
-    #     if (abs(c - diff) > 1) or (num_diff > 1):
-    #         return "NO"
-    # return "YES"
-    # Step 1: Count the frequency of each character
     char_count: dict[str, int] = {}
     for char in s:
         if char in char_count:
