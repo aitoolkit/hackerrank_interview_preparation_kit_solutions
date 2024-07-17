@@ -45,6 +45,7 @@
 
 22- [Luck balance](topics/greedy_algorithms/luck_balance.py) : [Problem description](https://www.hackerrank.com/challenges/luck-balance/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms)
 
+23- [Sherlock and the Valid String](topics/string_manipulation/sherlock_valid_string.py) : [Problem description](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings)
 
 
 ## Contributions
