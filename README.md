@@ -51,6 +51,9 @@
 
 25- [Max Min](topics/greedy_algorithms/max_min.py) : [Problem description](https://www.hackerrank.com/challenges/angry-children/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms)
 
+26- [Pairsn](topics/search/pairs.py) : [Problem description](https://www.hackerrank.com/challenges/pairs/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=search)
+
+
 ## Contributions
 
 ### - Install pre-commit
