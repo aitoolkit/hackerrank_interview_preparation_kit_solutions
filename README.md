@@ -57,6 +57,7 @@
 
 28- [Abbreviation](topics/dynamic_programming/abbreviation.py) : [Problem description](https://www.hackerrank.com/challenges/ctci-merge-sort/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting)
 
+29- [Tale of two stacks](topics/staks_and_queues/tale_of_two_stacks.py) : [Problem description](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues)
 
 ## Contributions
 
