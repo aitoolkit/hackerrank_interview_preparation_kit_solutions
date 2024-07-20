@@ -55,6 +55,8 @@
 
 27- [Triple sum](topics/search/triple_sum.py) : [Problem description](https://www.hackerrank.com/challenges/triple-sum/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=search)
 
+28- [Abbreviation](topics/dynamic_programming/abbreviation.py) : [Problem description](https://www.hackerrank.com/challenges/ctci-merge-sort/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting)
+
 
 ## Contributions
 
