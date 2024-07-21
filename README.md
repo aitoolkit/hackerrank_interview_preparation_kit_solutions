@@ -59,6 +59,8 @@
 
 29- [Tale of two stacks](topics/staks_and_queues/tale_of_two_stacks.py) : [Problem description](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues)
 
+30- [BFS: Shortest Reach in a Graph](topics/graphs/bfs.py) : [Problem description](https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=graphs)
+
 ## Contributions
 
 ### - Install pre-commit
