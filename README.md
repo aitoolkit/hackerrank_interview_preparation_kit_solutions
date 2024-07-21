@@ -68,6 +68,8 @@
 
 32- [Davis staircase](topics/recursion_and_backtracking/davis_staircase.py) : [Problem description](https://www.hackerrank.com/challenges/ctci-recursive-staircase/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=recursion-backtracking)
 
+33- [Inserting a Node Into a Sorted Doubly Linked List](topics/linked_lists/insert_node_into_sorted_dll.py) : [Problem description](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=linked-lists)
+
 
 ## Contributions
 
