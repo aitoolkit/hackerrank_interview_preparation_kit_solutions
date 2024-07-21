@@ -63,6 +63,9 @@
 
 31- [Time Complexity: Primality](topics/miscellaneous/primality.py) : [Problem description](https://www.hackerrank.com/challenges/ctci-big-o/problem?h_l=interview&isFullScreen=true&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=miscellaneous)
 
+32- [Davis staircase](topics/recursion_and_backtracking/davis_staircase.py) : [Problem description](https://www.hackerrank.com/challenges/ctci-recursive-staircase/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=recursion-backtracking)
+
+
 ## Contributions
 
 ### - Install pre-commit
