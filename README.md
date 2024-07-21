@@ -61,6 +61,8 @@
 
 30- [BFS: Shortest Reach in a Graph](topics/graphs/bfs.py) : [Problem description](https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=graphs)
 
+31- [Time Complexity: Primality](topics/miscellaneous/primality.py) : [Problem description](https://www.hackerrank.com/challenges/ctci-big-o/problem?h_l=interview&isFullScreen=true&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=miscellaneous)
+
 ## Contributions
 
 ### - Install pre-commit
