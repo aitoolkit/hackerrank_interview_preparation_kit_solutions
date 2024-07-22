@@ -70,6 +70,7 @@
 
 33- [Inserting a Node Into a Sorted Doubly Linked List](topics/linked_lists/insert_node_into_sorted_dll.py) : [Problem description](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=linked-lists)
 
+34- [Reverse a doubly linked list](topics/linked_lists/reverse_dll.py) : [Problem description](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=linked-lists)
 
 ## Contributions
 
