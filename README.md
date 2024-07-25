@@ -72,6 +72,9 @@
 
 34- [Reverse a doubly linked list](topics/linked_lists/reverse_dll.py) : [Problem description](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=linked-lists)
 
+35- [Detect cycle](topics/linked_lists/detect_cycle.py) : [Problem description](https://www.hackerrank.com/challenges/ctci-linked-list-cycle/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=linked-lists)
+
+
 ## Contributions
 
 ### - Install pre-commit
