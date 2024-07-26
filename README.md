@@ -74,6 +74,8 @@
 
 35- [Detect cycle](topics/linked_lists/detect_cycle.py) : [Problem description](https://www.hackerrank.com/challenges/ctci-linked-list-cycle/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=linked-lists)
 
+36- [Largest rectangle](topics/staks_and_queues/largest_rectangle.py) : [Problem description](https://www.hackerrank.com/challenges/largest-rectangle/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues)
+
 
 ## Contributions
 
