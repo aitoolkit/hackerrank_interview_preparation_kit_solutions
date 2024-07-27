@@ -76,6 +76,7 @@
 
 36- [Largest rectangle](topics/staks_and_queues/largest_rectangle.py) : [Problem description](https://www.hackerrank.com/challenges/largest-rectangle/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues)
 
+37- [Friend circle queries](topics/miscellaneous/friend_circle_queries.py) : [Problem description](https://www.hackerrank.com/challenges/friend-circle-queries/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=miscellaneous)
 
 ## Contributions
 
