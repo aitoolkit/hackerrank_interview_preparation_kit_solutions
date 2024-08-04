@@ -78,6 +78,8 @@
 
 37- [Friend circle queries](topics/miscellaneous/friend_circle_queries.py) : [Problem description](https://www.hackerrank.com/challenges/friend-circle-queries/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=miscellaneous)
 
+38- [Candies](topics/dynamic_programming/candies.py) : [Problem description](https://www.hackerrank.com/challenges/candies/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dynamic-programming)
+
 ## Contributions
 
 ### - Install pre-commit
