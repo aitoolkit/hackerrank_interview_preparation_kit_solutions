@@ -1,4 +1,6 @@
-def stepPerms(n, MOD=1000000007):
+def stepPerms(n):
+    MOD=10000000007
+    
     if n <= 0:
         return 1
     elif n == 1:
