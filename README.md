@@ -80,6 +80,8 @@
 
 38- [Candies](topics/dynamic_programming/candies.py) : [Problem description](https://www.hackerrank.com/challenges/candies/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dynamic-programming)
 
+39- [Candies](topics/search/minimum_time_required.py) : [Problem description](https://www.hackerrank.com/challenges/minimum-time-required/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=search)
+
 ## Contributions
 
 ### - Install pre-commit
