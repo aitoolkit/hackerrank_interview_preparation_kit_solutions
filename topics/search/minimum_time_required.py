@@ -18,6 +18,7 @@
 def minTime(machines, goal):
     
     left = 1
+    
     right = max(machines) * goal
     
     while left < right:
