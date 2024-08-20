@@ -1,4 +1,5 @@
 # Sol 1 : Time consuming
+
 # def minTime(machines, goal):
 #     print(machines)
 #     print(goal)
@@ -15,6 +16,7 @@
 #     return days
 
 # Sol 2 : Optimal
+
 def minTime(machines, goal):
     
     left = 1
