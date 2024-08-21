@@ -15,6 +15,7 @@
     
 #     return days
 
+
 # Sol 2 : Optimal
 
 def minTime(machines, goal):
