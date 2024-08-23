@@ -1,6 +1,7 @@
 # Sol 1 : Time consuming
 
 # def minTime(machines, goal):
+
 #     print(machines)
 #     print(goal)
     
