@@ -1,9 +1,6 @@
 # Sol 1 : Time consuming
 
 # def minTime(machines, goal):
-
-#     print(machines)
-#     print(goal)
     
 #     days_min = int(goal / (sum([1/m for m in machines])))
     
