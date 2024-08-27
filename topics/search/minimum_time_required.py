@@ -11,6 +11,7 @@
 #     while count < goal:
 
 #         days += 1
+
 #         count = sum([days//machine for machine in machines])
     
 #     return days
