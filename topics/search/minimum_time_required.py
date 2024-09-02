@@ -9,7 +9,6 @@
 #         count = sum([days//machine for machine in machines])
 #     return days
 
-
 # Sol 2 : Optimal
 
 def minTime(machines, goal):
