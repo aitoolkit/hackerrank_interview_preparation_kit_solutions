@@ -1,5 +1,4 @@
 # Sol 1 : Time consuming
-
 # def minTime(machines, goal):
 #     days_min = int(goal / (sum([1/m for m in machines])))
 #     days = days_min
@@ -9,8 +8,8 @@
 #         count = sum([days//machine for machine in machines])
 #     return days
 
-# Sol 2 : Optimal
 
+# Sol 2 : Optimal
 def minTime(machines, goal):
     
     left = 1
